@@ -1,4 +1,4 @@
-Hello;! My name is Abhinav Reddy Rajidi 😄
+Hi! My name is Abhinav Reddy Rajidi 😄
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer.
