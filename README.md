@@ -17,14 +17,3 @@ Hi! My name is Abhinav Reddy Rajidi 😄
   </a>
 </div>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi0045&show_icons=true&locale=en&layout=compact" alt="Abhi0045" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi0045&show_icons=true&locale=en" alt="Abhi0045" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi0045&" alt="Abhi0045" />
-</p>
-
