@@ -4,6 +4,7 @@ Hi! My name is Abhinav Reddy Rajidi 😄
 🌍  I am a Front-End Developer..
 <br/>
 
+
 ### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=figma) ![My Skills](https://skillicons.dev/icons?i=tailwind) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
