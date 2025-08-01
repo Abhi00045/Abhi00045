@@ -1,20 +1,53 @@
-Hi! My name is Abhinav Reddy Rajidi 😄
-========================================================================================================================================
+<table>
+  <tr>
+    <th colspan="2">
+    <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
+    <h1 align="center">Hello, <pre>This is Abhinav reddy rajidi</pre></h1>
+    <h3 align="center">I write code...</h3>
+  </th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      
 
-🌍  I am a Front-End Developer..
-<br/>
+     
+  </td>
+  </tr>
+  <tr>
+    <td width="">
 
+     const Abhinav Reddy= {
+      
+        skills: [
+          'React', 'Node js', 'Express js', 'Next js', 
+          'HTML', 'CSS', 'JavaScript', 'JAVA',
+          'MongoDB', 'SQL', 'Git', 
+          'Tailwind CSS' ...
+        ],
+        
+        education: {
+          B.Tech : "Malla Reddy (2021-25)"
+        },
+        
+        contact: {
+          email: "abhinavreddyrajidi91@gmail.com",
+          LinkedIn : "rajidi abhinav reddy"
+        },
+        
+        hobbies : [
+          'Learning about tech', 
+          'Web Developing' 
+          'Watching animated series', 
+        ]
+     }
 
-### Skills
-
-![My Skills](https://skillicons.dev/icons?i=html,css) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=figma) ![My Skills](https://skillicons.dev/icons?i=tailwind) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<br/>
-
-### Socials
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/abhinavreddy-rajidi-988633280/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+---
+ 
+  <tr>
+    <td align="center">
+        <img src="https://tenor.com/search/bradpitt-fightclub-gifs" width="400px">
+      <br>
+<!--       Hello Buddy! checkout my repos below. -->
+  </tr>
+</table>
 
