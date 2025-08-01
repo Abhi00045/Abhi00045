@@ -45,7 +45,7 @@
  
   <tr>
     <td align="center">
-        <img src="https://tenor.com/search/bradpitt-fightclub-gifs" width="400px">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthoughtcatalog.com%2Fnico-lang%2F2013%2F10%2F21-vintage-hollywood-studs-who-are-way-hotter-than-todays-actors%2F&psig=AOvVaw2ceRFoIKMRidOu0Ws1Oo2t&ust=1754124000052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiLwaKb6Y4DFQAAAAAdAAAAABAc" width="400px">
       <br>
 <!--       Hello Buddy! checkout my repos below. -->
   </tr>
