@@ -45,7 +45,7 @@
  
   <tr>
     <td align="center">
-        <img src="https://thoughtcatalog.com/wp-content/uploads/2013/10/tumblr_m0sllu72sf1r45xwlo1_500.gif" width="400px">
+        <img src="https://64.media.tumblr.com/d49419c0d1bd888939252a3277d54295/5ad83a192c0f9455-9c/s500x750/f40a14dfbf1c0af07c247f71651d703ea0651b79.gif" width="400px">
       <br>
 <!--       Hello Buddy! checkout my repos below. -->
   </tr>
