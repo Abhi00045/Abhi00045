@@ -45,7 +45,7 @@
  
   <tr>
     <td align="center">
-        <img src="https://64.media.tumblr.com/d49419c0d1bd888939252a3277d54295/5ad83a192c0f9455-9c/s500x750/f40a14dfbf1c0af07c247f71651d703ea0651b79.gif" width="400px">
+        <img src="https://i.pinimg.com/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.jpg" width="400px">
       <br>
 <!--       Hello Buddy! checkout my repos below. -->
   </tr>
