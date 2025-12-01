@@ -1,20 +1,3 @@
-<table>
-  <tr>
-    <th colspan="2">
-    <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
-    <h1 align="center">Hello, <pre>This is Abhinav reddy rajidi</pre></h1>
-    <h3 align="center">I write code...</h3>
-  </th>
-  </tr>
-  <tr>
-    <td colspan="2">
-      
-
-     
-  </td>
-  </tr>
-  <tr>
-    <td width="">
 
      const Abhinav Reddy= {
       
