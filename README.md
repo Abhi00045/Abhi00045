@@ -3,17 +3,23 @@
 </a>
 
 <div align="center">
+
   <a href="https://github.com/Abhi00045?tab=repositories">
-    <img alt="Stars" src="https://img.shields.io/badge/PROJECTS-12-000000?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
+    <img alt="Projects" src="https://img.shields.io/badge/PROJECTS-12-000000?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
   </a>
+
   &nbsp;
+
   <a href="https://github.com/Abhi00045">
-    <img alt="Tech" src="https://img.shields.io/badge/STACK-FULL%20STACK%20%2B%20AI-000000?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white"/>
+    <img alt="Stack" src="https://img.shields.io/badge/STACK-FULL%20STACK%20%2B%20AI-000000?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white"/>
   </a>
+
   &nbsp;
+
   <a href="https://github.com/Abhi00045?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
+    <img alt="Focus" src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
   </a>
+
 </div>
 
 <br>
@@ -22,55 +28,135 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i.pinimg.com/1200x/b2/93/95/b293954fa5454e1385e07e138a3eef63.jpg" width="210" align="left" style="margin-right: 15px;">
+<table>
+<tr>
+<td width="30%" align="center">
 
-<div align="justify">
-  <h3>Hey there! I'm Abhinav</h3>
+<img src="https://i.pinimg.com/1200x/b2/93/95/b293954fa5454e1385e07e138a3eef63.jpg" width="220"/>
 
-  I'm a Full Stack Developer and AI enthusiast obsessed with building scalable products, AI-powered platforms, and modern web applications. Most of my projects revolve around combining intelligent systems with real-world workflows — from AI recruitment platforms to predictive healthcare systems.
+</td>
 
-  <br><br>
+<td width="70%">
 
-  I enjoy building things that feel like real startups:
-  scalable architectures, AI workflows, DevOps pipelines, low-latency systems, and modern user experiences.
-  Currently diving deep into
-  - AI Agents
-  - LLM Applications
-  - Voice AI Systems
-  - DevOps & Cloud
-  - Scalable Backend Infrastructure
-  - 
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+### Hey there! I'm Abhinav
 
-  <img src="https://i.pinimg.com/736x/b4/5a/93/b45a93567f8ec6edd603edd973bb3027.jpg" width="180" align="right" style="margin-left: 15px;">
+I'm a Full Stack Developer and AI enthusiast obsessed with building scalable products, AI-powered platforms, and modern web applications.
 
-  <h3>Top Projects</h3>
+Most of my projects revolve around combining intelligent systems with real-world workflows — from AI recruitment platforms to predictive healthcare systems.
 
-  <a href="https://github.com/Abhi00045/AIpply">
-    <img src="https://img.shields.io/badge/AIpply-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a><br><br> AI-powered recruitment platform with voice AI interviews, recruiter workflows, DevOps infrastructure, and intelligent hiring systems.
-  <br><br>
+<br>
 
-  <a href="https://github.com/Abhi00045/Malaria-Prediction">
-    <img src="https://img.shields.io/badge/Malaria%20Prediction-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a> <br><br> Machine learning system for predicting malaria outbreaks using environmental and healthcare datasets.
-  <br><br>
+Currently diving deep into:
 
-  <a href="https://github.com/Abhi00045">
-    <img src="https://img.shields.io/badge/BlogBox-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a><br><br>Scalable blogging platform with analytics, authentication systems, dashboards, and optimized user performance.
+- AI Agents
+- LLM Applications
+- Voice AI Systems
+- DevOps & Cloud
+- Scalable Backend Infrastructure
 
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
-</div>
+</td>
+</tr>
+</table>
 
-<br clear="left"/>
-<br clear="right"/>
+---
 
 <div align="center">
+  <h2>Top Projects</h2>
+</div>
 
-<img src="https://i.pinimg.com/736x/19/54/b9/1954b9fae4974056aacca411394c7c5f.jpg" width="100%">
+<table>
+<tr>
+<td width="30%" align="center">
 
-<br><br>
+<img src="https://i.pinimg.com/736x/77/0d/51/770d517c6188d03e3d8c3bbcfbb58d0c.jpg" width="200"/>
+
+</td>
+
+<td width="70%">
+
+### AIpply
+
+<a href="https://github.com/Abhi00045/AIpply">
+  <img src="https://img.shields.io/badge/AIpply-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+AI-powered recruitment platform with:
+
+- Real-time voice AI interviews
+- Recruiter workflows
+- Candidate management
+- DevOps infrastructure
+- CI/CD pipelines
+- AI behavioral interview systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="https://i.pinimg.com/736x/7e/2f/09/7e2f09347a74c9ca98b8c7b46b29eab3.jpg" width="200"/>
+
+</td>
+
+<td width="70%">
+
+### Malaria Disease Outbreak Analysis
+
+<a href="https://github.com/Abhi00045/Malaria-Prediction">
+  <img src="https://img.shields.io/badge/Malaria%20Prediction-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+Machine learning system for:
+
+- Malaria outbreak prediction
+- Environmental data analysis
+- ETL pipelines
+- Distributed data processing
+- Predictive healthcare analytics
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="https://i.pinimg.com/736x/c6/3d/f4/c63df4201b2c8034dd98ec9a7d3d0d95.jpg" width="200"/>
+
+</td>
+
+<td width="70%">
+
+### BlogBox
+
+<a href="https://github.com/Abhi00045">
+  <img src="https://img.shields.io/badge/BlogBox-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+Scalable blogging platform featuring:
+
+- Real-time analytics
+- Dynamic dashboards
+- Secure authentication
+- Persistent storage
+- Low-latency interactions
+- Responsive user experience
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/Abhi00045">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -100,12 +186,11 @@
 
 > Building products that combine AI, scalability, automation, and real-world impact.
 
-> Most of my projects start with curiosity and end with Docker containers, debugging sessions, and questionable sleep schedules.
+> Most projects start with curiosity and end with Docker containers, debugging sessions, and optimized deployments.
 
-<br clear="right"/>
 <br>
 
-<br><br>
+---
 
 <div align="center">
 
@@ -115,63 +200,73 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<table align="center" style="background: transparent; border: none;">
-  <tr>
-    <td align="right" valign="middle" style="padding-right: 20px;">
-      <strong>Frontend</strong>
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="right" valign="middle" style="padding-right: 20px;">
-      <strong>Backend & Database</strong>
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white">
-      <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="right" valign="middle" style="padding-right: 20px;">
-      <strong>AI & Data</strong>
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Vapi_AI-000000?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white">
-      <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white">
-      <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="right" valign="middle" style="padding-right: 20px;">
-      <strong>DevOps & Cloud</strong>
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge">
-      <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white">
-      <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-    </td>
-  </tr>
-</table>
+# Tech Stack
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Backend</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge">
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Database</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>AI & Data</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Vapi_AI-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge">
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>DevOps & Cloud</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+</td>
+</tr>
+</table>
 
 <br>
 
