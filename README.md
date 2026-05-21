@@ -42,7 +42,7 @@
   - 
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
-  <img src="https://i.postimg.cc/yYw0xH4M/Chat-GPT-Image-May-20-2026-10-00-57-PM.png" width="180" align="right" style="margin-left: 15px;">
+  <img src="https://i.pinimg.com/736x/b4/5a/93/b45a93567f8ec6edd603edd973bb3027.jpg" width="180" align="right" style="margin-left: 15px;">
 
   <h3>Top Projects</h3>
 
