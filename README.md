@@ -1,5 +1,5 @@
 <a href="https://github.com/Abhi00045">
-  <img src="https://i.pinimg.com/originals/e8/f6/1b/e8f61b64959302d3b04a4db7dbb53f3a.gif" alt="Banner"/>
+  <img src="https://i.pinimg.com/736x/33/18/eb/3318ebc8105c95f794032197028f657d.jpg" alt="Banner"/>
 </a>
 
 <div align="center">
