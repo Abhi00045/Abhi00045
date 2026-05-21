@@ -68,7 +68,7 @@ Currently diving deep into:
 <tr>
 <td width="30%" align="center">
 
-<img src="https://i.pinimg.com/736x/77/0d/51/770d517c6188d03e3d8c3bbcfbb58d0c.jpg" width="200"/>
+<img src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif" width="200"/>
 
 </td>
 
@@ -99,7 +99,7 @@ AI-powered recruitment platform with:
 <tr>
 <td width="30%" align="center">
 
-<img src="https://i.pinimg.com/736x/7e/2f/09/7e2f09347a74c9ca98b8c7b46b29eab3.jpg" width="200"/>
+<img src="https://i.pinimg.com/originals/e4/91/20/e49120099b11cd1537999e93060194d5.gif" width="200"/>
 
 </td>
 
@@ -129,7 +129,7 @@ Machine learning system for:
 <tr>
 <td width="30%" align="center">
 
-<img src="https://i.pinimg.com/736x/c6/3d/f4/c63df4201b2c8034dd98ec9a7d3d0d95.jpg" width="200"/>
+<img src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif" width="200"/>
 
 </td>
 
