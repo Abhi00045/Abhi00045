@@ -33,17 +33,12 @@
 
   I enjoy building things that feel like real startups:
   scalable architectures, AI workflows, DevOps pipelines, low-latency systems, and modern user experiences.
-
-  <br><br>
-
-  Currently diving deep into:
-  
+  Currently diving deep into
   - AI Agents
   - LLM Applications
   - Voice AI Systems
   - DevOps & Cloud
   - Scalable Backend Infrastructure
-
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
   <img src="https://i.postimg.cc/yYw0xH4M/Chat-GPT-Image-May-20-2026-10-00-57-PM.png" width="180" align="right" style="margin-left: 15px;">
