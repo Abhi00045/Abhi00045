@@ -48,20 +48,17 @@
 
   <a href="https://github.com/Abhi00045/AIpply">
     <img src="https://img.shields.io/badge/AIpply-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-   - AI-powered recruitment platform with voice AI interviews, recruiter workflows, DevOps infrastructure, and intelligent hiring systems.
+  </a><br><br> AI-powered recruitment platform with voice AI interviews, recruiter workflows, DevOps infrastructure, and intelligent hiring systems.
   <br><br>
 
   <a href="https://github.com/Abhi00045/Malaria-Prediction">
     <img src="https://img.shields.io/badge/Malaria%20Prediction-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  - Machine learning system for predicting malaria outbreaks using environmental and healthcare datasets.
+  </a> <br><br> Machine learning system for predicting malaria outbreaks using environmental and healthcare datasets.
   <br><br>
 
   <a href="https://github.com/Abhi00045">
     <img src="https://img.shields.io/badge/BlogBox-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  - Scalable blogging platform with analytics, authentication systems, dashboards, and optimized user performance.
+  </a><br><br>Scalable blogging platform with analytics, authentication systems, dashboards, and optimized user performance.
 
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
@@ -71,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/65jL0kwM/Chat-GPT-Image-May-20-2026-10-06-22-PM.png" width="100%">
+<img src="https://i.pinimg.com/736x/19/54/b9/1954b9fae4974056aacca411394c7c5f.jpg" width="100%">
 
 <br><br>
 
@@ -107,10 +104,6 @@
 
 <br clear="right"/>
 <br>
-
-<div align="center">
-  <img src="https://i.postimg.cc/y8xg9m6D/Chat-GPT-Image-May-20-2026-10-08-28-PM.png" width="100%">
-</div>
 
 <br><br>
 
