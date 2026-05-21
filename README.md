@@ -1,5 +1,5 @@
 <a href="https://github.com/Abhi00045">
-  <img src="[https://i.postimg.cc/fW0B6m5m/Black-Minimalist-Business-Personal-Profile-Linked-In-Banner.png](https://i.pinimg.com/1200x/9e/ab/68/9eab687cdd4089ffe0fb1c131cbe77d1.jpg)" width="100%" alt="Banner"/>
+  <img src="https://i.pinimg.com/1200x/9e/ab/68/9eab687cdd4089ffe0fb1c131cbe77d1.jpg" width="100%" alt="Banner"/>
 </a>
 
 <div align="center">
