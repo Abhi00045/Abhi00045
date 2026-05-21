@@ -22,7 +22,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i.postimg.cc/zGf6JQ1M/Chat-GPT-Image-May-20-2026-09-58-03-PM.png" width="210" align="left" style="margin-right: 15px;">
+<img src="https://i.pinimg.com/1200x/b2/93/95/b293954fa5454e1385e07e138a3eef63.jpg" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
   <h3>Hey there! I'm Abhinav</h3>
